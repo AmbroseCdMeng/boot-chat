@@ -1,0 +1,5 @@
+com\example\chat\config\TomcatHttpConfig.class
+com\example\chat\bean\Message.class
+com\example\chat\config\WebSocketConfig.class
+com\example\chat\ChatApplication.class
+com\example\chat\controller\GreetingController.class

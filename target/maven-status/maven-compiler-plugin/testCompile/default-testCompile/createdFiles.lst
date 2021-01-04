@@ -1,0 +1,4 @@
+com\example\chat\ChatApplicationTests.class
+com\example\chat\config\WebSocketConfig.class
+com\example\chat\controller\GreetingController.class
+com\example\chat\bean\Message.class
